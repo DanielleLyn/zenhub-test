@@ -18,7 +18,6 @@
         * Add listing
     * Profile 
         * name
-        * picture
         * email address
         * my listings
     * Add listing
@@ -27,7 +26,11 @@
         * price
         * description
         * add/cancel
-
+    * Cart  
+        * items in cart (add)
+    * Checkout  
+        * 
+    
     
 
 * Components 
@@ -59,8 +62,8 @@
     * /login - (and register)
     * /profile 
     * /addlisting
-     
-
+    * /cart
+  
 
 ## back-end (Server)
 
